@@ -1,0 +1,5 @@
+.env
+course_settings.json
+Canvas_Assignments.xlsx
+__pycache__/
+*.pyc
